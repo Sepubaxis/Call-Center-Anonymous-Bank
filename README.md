@@ -5,7 +5,7 @@
 ### Dataset
 Este documento describe caso de negocio basado en un Call Center de un Banco: “Anonymous Bank” en Israel. El dataset contiene las llamadas registradas durante 12 meses (desde el 01/01/99 hasta el 31/12/99).
 
-Este proyecto de análisis tiene como objetivo evaluar el rendimiento de un call center. Para ello, se utilizarán los datos de las llamadas entrantes al call center para crear visualizaciones que respondan a las siguientes preguntas:
+Este proyecto de análisis tiene como objetivo evaluar el rendimiento de un call center. Para ello, se utilizarán los datos de las llamadas entrantes al call center para crear visualizaciones que intenten responder a las siguientes preguntas:
 
 - ¿Cuál es el nivel de servicio para los clientes Prioritarios?
 - ¿Damos un mejor servicio que a los clientes normales?
